@@ -16,3 +16,5 @@ we did not merge just added new columns which displays maxBID, minASK, totalBIDV
 so now when we removed the rest of the data like all the ask,bid,askcol,bidvol columns the logloss increases by 3% and became 0.62 
 so rest alot things can be done as the columns will remain same 
 but try hyper tuning the other parameters
+
+Data Link:- https://www.kaggle.com/competitions/caltech-cs155-2020/data
